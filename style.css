@@ -1,8 +1,17 @@
 body {
-  background-color: #849871;
-  color: #dddddd;
+  background-color: #003e42;
+  background-image: url("https://www.transparenttextures.com/patterns/diagonal-striped-brick.png");
+  color: #f0dff0;
   font-family: Arial, Helvetica, sans-serif;
   margin: 10% 20%;
+}
+
+img {
+  width: 25%;
+  position: relative;
+  left: 70%;
+  bottom: 60px;
+  border: 3px solid #003e42;
 }
 
 .exp-header {
